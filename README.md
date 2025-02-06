@@ -1,0 +1,2 @@
+# BookBytes: Sentiment Analysis on Book Reviews
+BookSentiment is a sentiment analysis tool that analyzes book reviews to uncover reader emotions and trends. Whether you're a reader, author, or publisher, this project provides actionable insights into what people love (or dislike) about books.
